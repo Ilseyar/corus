@@ -512,7 +512,7 @@ Same as Collection5, only PER markup + normalized names
 RuDReC is a new partially annotated corpus of consumer reviews in Russian about pharmaceutical products for the detection of health-related named entities and the effectiveness of pharmaceutical products.
 </br>
 </br>
-<code>wget </code>
+<code>wget https://github.com/cimm-kzn/RuDReC/raw/master/data/rudrec_annotated.json</code>
 </td>
 </tr>
 <tr>
